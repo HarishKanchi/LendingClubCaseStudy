@@ -7,11 +7,10 @@ Lending Club Exploratory Data Analysis
 * [Acknowledgements](#acknowledgements)
 
 ## Technologies Used
-- Matplotlib
-- Seaborn
+* Matplotlib
+* Seaborn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by work from https://github.com/akshayr89/Lending-Club---Exploratory-Data-Analysis
+* This project was inspired by work from https://github.com/akshayr89/Lending-Club---Exploratory-Data-Analysis
